@@ -1,0 +1,72 @@
+{
+  "pets": [
+    {
+      "nome": "Jaçom",
+      "idade": 7,
+      "raca": "Angora",
+      "tipo": "Gato",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": [
+        {
+          "nome": "banho",
+          "data": "31-03-2021"
+        }
+      ]
+    },
+    {
+      "nome": "Dillion",
+      "idade": 2,
+      "raca": "Rusky",
+      "tipo": "Cachorro",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": []
+    },
+    {
+      "nome": "Lobson",
+      "idade": 1,
+      "raca": "Hamster",
+      "tipo": "Rato",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Jenilon",
+      "idade": 3,
+      "raca": "Monarca",
+      "tipo": "Borboleta",
+      "vacinado": true,
+      "genero": "F",
+      "servicos": []
+    },
+    {
+      "nome": "Jaçom",
+      "idade": 7,
+      "raca": "Angora",
+      "tipo": "Gato",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Jaçinho",
+      "idade": 7,
+      "raca": "Angora",
+      "tipo": "Gato",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    },
+    {
+      "nome": "Joleilson",
+      "idade": 2,
+      "raca": "Chihuahua",
+      "tipo": "Cão",
+      "vacinado": true,
+      "genero": "M",
+      "servicos": []
+    }
+  ]
+}
